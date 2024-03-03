@@ -1,0 +1,10 @@
+.post{
+    background-color: aquamarine;
+}
+
+.post h3{
+    color: red;
+}
+.post p{
+    font-size: 30px;
+}
